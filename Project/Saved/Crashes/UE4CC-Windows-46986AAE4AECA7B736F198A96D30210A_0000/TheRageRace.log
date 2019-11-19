@@ -1,0 +1,796 @@
+﻿Log file open, 10/22/19 14:09:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TheRageRace
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.277592
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Engine.ini]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Engine.ini]
+[2019.10.22-19.09.39:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Engine.ini]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.22-19.09.39:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Engine.ini]
+[2019.10.22-19.09.39:051][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.22-19.09.39:051][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.22-19.09.39:051][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.22-19.09.39:051][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.22-19.09.39:051][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.22-19.09.39:051][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.22-19.09.39:051][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.22-19.09.39:051][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.22-19.09.39:051][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.22-19.09.39:051][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.22-19.09.39:051][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.22-19.09.39:051][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.22-19.09.39:051][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.22-19.09.39:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Engine.ini]
+[2019.10.22-19.09.39:051][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Engine.ini]
+[2019.10.22-19.09.39:063][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.22-19.09.39:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.22-19.09.39:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.22-19.09.39:065][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.22-19.09.39:065][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.22-19.09.39:065][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.22-19.09.39:128][  0]LogHAL: Display: Platform has ~ 8 GB [8467181568 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.22-19.09.39:128][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.22-19.09.39:128][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.22-19.09.39:128][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:128][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.22-19.09.39:128][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.22-19.09.39:128][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:128][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.22-19.09.39:128][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:128][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.22-19.09.39:128][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.22-19.09.39:128][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.22-19.09.39:128][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.22-19.09.39:128][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.22-19.09.39:128][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.22-19.09.39:129][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.22-19.09.39:130][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.22-19.09.39:130][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.22-19.09.39:130][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.22-19.09.39:130][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.22-19.09.39:130][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-19.09.39:130][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.22-19.09.39:130][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.22-19.09.39:130][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.22-19.09.39:130][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.22-19.09.39:130][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.22-19.09.39:130][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Config/Windows/Engine.ini]
+[2019.10.22-19.09.39:130][  0]LogInit: Computer: MAXIMILIAM
+[2019.10.22-19.09.39:130][  0]LogInit: User: maxim
+[2019.10.22-19.09.39:130][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.22-19.09.39:130][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.22-19.09.39:130][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.10.22-19.09.39:130][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.22-19.09.39:130][  0]LogMemory: Process Physical Memory: 98.07 MB used, 98.08 MB peak
+[2019.10.22-19.09.39:130][  0]LogMemory: Process Virtual Memory: 101.00 MB used, 101.00 MB peak
+[2019.10.22-19.09.39:130][  0]LogMemory: Physical Memory: 4652.28 MB used,  3422.65 MB free, 8074.93 MB total
+[2019.10.22-19.09.39:131][  0]LogMemory: Virtual Memory: 4655.50 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.10.22-19.09.39:156][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.10.22-19.09.39:156][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.10.22-19.09.39:402][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.22-19.09.39:428][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.22-19.09.39:428][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.22-19.09.39:620][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.22-19.09.39:621][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.22-19.09.39:694][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 850M' (Feature Level 11_0)
+[2019.10.22-19.09.39:694][  0]LogD3D11RHI:       4055/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.22-19.09.39:701][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.10.22-19.09.39:701][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.22-19.09.39:703][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.22-19.09.39:704][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.22-19.09.39:704][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.22-19.09.39:724][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.22-19.09.39:724][  0]LogD3D11RHI:     GPU DeviceId: 0x1391 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.22-19.09.39:724][  0]LogWindows: EnumDisplayDevices:
+[2019.10.22-19.09.39:724][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.10.22-19.09.39:725][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2019.10.22-19.09.39:725][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.10.22-19.09.39:725][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.10.22-19.09.39:725][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 850M
+[2019.10.22-19.09.39:725][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.10.22-19.09.39:725][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.10.22-19.09.39:725][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2019.10.22-19.09.39:772][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.22-19.09.39:777][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.22-19.09.39:777][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.22-19.09.39:777][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.22-19.09.39:786][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.22-19.09.40:521][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.22-19.09.40:537][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.22-19.09.40:552][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.22-19.09.40:568][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.22-19.09.40:587][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.22-19.09.40:607][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.22-19.09.40:625][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.22-19.09.40:643][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.22-19.09.40:650][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.22-19.09.40:739][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.22-19.09.40:741][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.22-19.09.40:809][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.22-19.09.40:809][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.22-19.09.40:849][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.22-19.09.40:849][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.22-19.09.40:863][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.22-19.09.40:876][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.22-19.09.40:889][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.22-19.09.40:933][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.22-19.09.40:982][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.22-19.09.40:982][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.22-19.09.40:982][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.22-19.09.40:991][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.22-19.09.41:042][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Intermediate/Shaders/WorkingDirectory/7348/).
+[2019.10.22-19.09.41:042][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/maxim/AppData/Local/Temp/UnrealShaderWorkingDir/CC988455450C279636F1EEB0DF95628B/'.
+[2019.10.22-19.09.41:045][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.22-19.09.41:045][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.22-19.09.41:045][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.22-19.09.41:637][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.22-19.09.41:707][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/maxim/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.22-19.09.41:707][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/maxim/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.22-19.09.41:707][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.22-19.09.41:707][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.22-19.09.41:708][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.22-19.09.41:708][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.22-19.09.41:721][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.22-19.09.41:721][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.22-19.09.41:721][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.22-19.09.41:733][  0]LogDerivedDataCache: Using Local data cache path C:/Users/maxim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.22-19.09.41:733][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.22-19.09.41:733][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.22-19.09.41:772][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.22-19.09.41:774][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.22-19.09.41:774][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.22-19.09.41:863][  0]LogAssetRegistry: FAssetRegistry took 0.0348 seconds to start up
+[2019.10.22-19.09.42:221][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.22-19.09.42:373][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.22-19.09.42:373][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.22-19.09.42:373][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.22-19.09.42:373][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.22-19.09.42:373][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.22-19.09.42:384][  0]LogNetVersion: TheRageRace 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3510824104)
+[2019.10.22-19.09.43:071][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.180853 seconds
+[2019.10.22-19.09.43:079][  0]LogUObjectArray: 42214 objects as part of root set at end of initial load.
+[2019.10.22-19.09.43:079][  0]LogUObjectAllocator: 7335800 out of 0 bytes used by permanent object pool.
+[2019.10.22-19.09.43:079][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.22-19.09.44:477][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.22-19.09.44:490][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.22-19.09.44:643][  0]SourceControl: Source control is disabled
+[2019.10.22-19.09.44:643][  0]SourceControl: Source control is disabled
+[2019.10.22-19.09.44:644][  0]SourceControl: Source control is disabled
+[2019.10.22-19.09.44:645][  0]SourceControl: Source control is disabled
+[2019.10.22-19.09.44:654][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.22-19.09.44:654][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.22-19.09.44:763][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.22-19.09.44:840][  0]LogOcInput: OculusInput pre-init called
+[2019.10.22-19.09.45:615][  0]LogEngine: Initializing Engine...
+[2019.10.22-19.09.45:617][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.22-19.09.45:619][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.22-19.09.45:866][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.22-19.09.45:884][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.22-19.09.45:911][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.22-19.09.46:082][  0]LogInit: FAudioDevice initialized.
+[2019.10.22-19.09.46:082][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.22-19.09.47:076][  0]LogDerivedDataCache: Saved boot cache 0.99s 71MB C:/Users/maxim/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.22-19.09.47:082][  0]LogInit: Texture streaming: Enabled
+[2019.10.22-19.09.47:101][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.22-19.09.47:166][  0]LogInit: Transaction tracking system initialized
+[2019.10.22-19.09.47:209][  0]BlueprintLog: New page: Editor Load
+[2019.10.22-19.09.47:297][  0]LocalizationService: Localization service is disabled
+[2019.10.22-19.09.47:439][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.22-19.09.47:440][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.22-19.09.48:527][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/' took 0.05s
+[2019.10.22-19.09.48:527][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.22-19.09.48:527][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.22-19.09.48:727][  0]SourceControl: Source control is disabled
+[2019.10.22-19.09.48:727][  0]Cmd: MAP LOAD FILE="../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.22-19.09.48:727][  0]LightingResults: New page: Lighting Build
+[2019.10.22-19.09.48:730][  0]MapCheck: New page: Map Check
+[2019.10.22-19.09.48:730][  0]LightingResults: New page: Lighting Build
+[2019.10.22-19.09.48:760][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.10.22-19.09.52:892][  0]LogAIModule: Creating AISystem for world Menu
+[2019.10.22-19.09.52:893][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.22-19.09.52:923][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.10.22-19.09.52:923][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.22-19.09.52:923][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2019.10.22-19.09.52:923][  0]LogFileHelpers: Loading map 'Menu' took 4.196
+[2019.10.22-19.10.12:267][  0]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.10.22-19.10.12:267][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.22-19.10.14:714][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.10.14:825][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.10.14:833][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.10.14:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.10.15:075][  0]LogCollectionManager: Loaded 0 collections in 0.001901 seconds
+[2019.10.22-19.10.15:989][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Collections/' took 0.01s
+[2019.10.22-19.10.15:989][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Developers/maxim/Collections/' took 0.00s
+[2019.10.22-19.10.15:989][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Collections/' took 0.00s
+[2019.10.22-19.10.15:989][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.22-19.10.16:126][  0]LogContentBrowser: Native class hierarchy populated in 0.0448 seconds. Added 2758 classes and 669 folders.
+[2019.10.22-19.10.16:676][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.22-19.10.16:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.17:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.17:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.17:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.17:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.17:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.17:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.17:535][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.17:572][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.17:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.17:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.17:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.17:992][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.18:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.18:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.18:165][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.18:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.18:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.18:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.18:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.18:513][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.18:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.18:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.18:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.18:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.18:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-19.10.20:621][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.22-19.10.20:792][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.10.22-19.10.21:943][  0]LogSlate: Took 0.000496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.22-19.10.21:988][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.22-19.10.22:184][  0]LogSlate: Took 0.024871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.22-19.10.23:343][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.22-19.10.25:027][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.10.22-19.10.25:028][  0]LogLoad: (Engine Initialization) Total time: 51.67 seconds
+[2019.10.22-19.10.25:028][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.22-19.10.25:764][  0]LogAssetRegistry: Asset discovery search completed in 43.9241 seconds
+[2019.10.22-19.10.25:809][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.22-19.10.25:809][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2019.10.22-19.10.25:945][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.22-19.10.26:258][  0]LogSlate: Took 0.068842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.22-19.10.26:790][  2]LogSlate: Took 0.000507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.22-19.10.32:382][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.10.33:084][517]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_LobbyPlayerController.BP_LobbyPlayerController
+[2019.10.22-19.10.36:494][517]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2019.10.22-19.10.55:610][517]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/BPW_ServerMenu.BPW_ServerMenu
+[2019.10.22-19.10.59:066][517]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.10.22-19.11.15:825][517]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/BPW_Lobby.BPW_Lobby
+[2019.10.22-19.11.16:248][517]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/BPW_MainMenu.BPW_MainMenu
+[2019.10.22-19.11.16:855][517]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_LobbyGameMode.BP_LobbyGameMode
+[2019.10.22-19.11.17:688][517]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/BPW_ChatWindow.BPW_ChatWindow
+[2019.10.22-19.11.29:012][517]LogSlate: Took 0.512348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.22-19.11.50:808][518]LogSlate: Took 0.096342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.22-19.11.51:662][520]LogHttp: Warning: 0000025EA80BB4C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.10.22-19.11.51:662][520]LogHttp: Warning: 0000025EA80BB4C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.10.22-19.11.51:662][520]LogHttp: Warning: 0000025EA80BB4C0: libcurl info message cache 1 (Closing connection 0)
+[2019.10.22-19.11.51:663][520]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F50762C-4751-176B-1ADD-C995F4214CAB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9545ad3e4f237fc631a7faa18228dec1%7C5f817df291d9468eb121bda29169e516%7C6220e989-7c78-4219-b595-3d3708e8d201&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.22-19.12.25:066][ 18]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (34.365 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.13.51:731][318]LogHttp: Warning: 0000025EACF5DF80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.10.22-19.13.51:732][318]LogHttp: Warning: 0000025EACF5DF80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.10.22-19.13.51:732][318]LogHttp: Warning: 0000025EACF5DF80: libcurl info message cache 1 (Closing connection 1)
+[2019.10.22-19.13.51:732][318]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F50762C-4751-176B-1ADD-C995F4214CAB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9545ad3e4f237fc631a7faa18228dec1%7C5f817df291d9468eb121bda29169e516%7C6220e989-7c78-4219-b595-3d3708e8d201&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.22-19.15.14:310][565]LogSlate: Window 'BPW_ChatWindow' being destroyed
+[2019.10.22-19.15.51:777][689]LogHttp: Warning: 0000025EACF5DE40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.10.22-19.15.51:777][689]LogHttp: Warning: 0000025EACF5DE40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.10.22-19.15.51:777][689]LogHttp: Warning: 0000025EACF5DE40: libcurl info message cache 1 (Closing connection 2)
+[2019.10.22-19.15.51:810][690]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F50762C-4751-176B-1ADD-C995F4214CAB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9545ad3e4f237fc631a7faa18228dec1%7C5f817df291d9468eb121bda29169e516%7C6220e989-7c78-4219-b595-3d3708e8d201&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.22-19.16.09:567][206]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.44:168][333]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.34.45:037][335]LogHttp: Warning: 0000025EACF5C7C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.10.22-19.34.45:037][335]LogHttp: Warning: 0000025EACF5C7C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.10.22-19.34.45:038][335]LogHttp: Warning: 0000025EACF5C7C0: libcurl info message cache 1 (Closing connection 3)
+[2019.10.22-19.34.45:477][336]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F50762C-4751-176B-1ADD-C995F4214CAB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9545ad3e4f237fc631a7faa18228dec1%7C5f817df291d9468eb121bda29169e516%7C6220e989-7c78-4219-b595-3d3708e8d201&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.22-19.35.25:006][697]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (40.838 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-19.37.25:502][583]LogHttp: Warning: 0000025E4BEC5800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.10.22-19.37.25:502][583]LogHttp: Warning: 0000025E4BEC5800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.10.22-19.37.25:502][583]LogHttp: Warning: 0000025E4BEC5800: libcurl info message cache 1 (Closing connection 4)
+[2019.10.22-19.37.25:837][584]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F50762C-4751-176B-1ADD-C995F4214CAB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9545ad3e4f237fc631a7faa18228dec1%7C5f817df291d9468eb121bda29169e516%7C6220e989-7c78-4219-b595-3d3708e8d201&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.22-19.39.26:394][945]LogHttp: Warning: 0000025E4BEC5800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.10.22-19.39.26:394][945]LogHttp: Warning: 0000025E4BEC5800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.10.22-19.39.26:395][945]LogHttp: Warning: 0000025E4BEC5800: libcurl info message cache 1 (Closing connection 5)
+[2019.10.22-19.39.26:728][946]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F50762C-4751-176B-1ADD-C995F4214CAB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9545ad3e4f237fc631a7faa18228dec1%7C5f817df291d9468eb121bda29169e516%7C6220e989-7c78-4219-b595-3d3708e8d201&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.22-19.50.14:143][146]LogSlate: Took 0.102205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.10.22-19.50.28:528][518]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.22-19.50.34:455][ 88]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.22-19.52.26:015][ 92]BlueprintLog: New page: Compile BPW_ChatWindow
+[2019.10.22-19.52.26:525][ 92]LogUObjectHash: Compacting FUObjectHashTables data took  10.97ms
+[2019.10.22-19.52.27:410][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_ChatWindow" FILE="../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset" SILENT=true
+[2019.10.22-19.52.29:032][124]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatWindow190DE3B0474773D8009FA29E72014CBF.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset'
+[2019.10.22-19.53.20:662][614]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Blueprints/ChatMessageStructure.ChatMessageStructure
+[2019.10.22-19.53.37:765][281]LogSlate: Took 0.084705 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.22-19.54.04:156][798]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.10.22-19.54.04:156][798]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.335
+[2019.10.22-19.54.04:211][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/ChatMessageStructure] ([1] browsable assets)...
+[2019.10.22-19.54.04:211][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ChatMessageStructure]
+[2019.10.22-19.54.04:219][798]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/ChatMessageStructure_Auto1D4B1FD9D42F8FCDDC5972DA1E83B8476.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Autosaves/Game/Blueprints/ChatMessageStructure_Auto1.uasset'
+[2019.10.22-19.54.04:220][798]LogFileHelpers: Auto-saving content packages took 0.060
+[2019.10.22-19.55.54:912][727]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/ChatMessageStructure7BD6AFDD4C734FA140D93CA8BB5C464B.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Blueprints/ChatMessageStructure.uasset'
+[2019.10.22-19.55.55:464][786]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/ChatMessageStructure552A14CE480AF728C14BA48D91A1E10C.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Blueprints/ChatMessageStructure.uasset'
+[2019.10.22-19.56.35:183][ 58]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/BPW_ChatMessageChild.BPW_ChatMessageChild
+[2019.10.22-19.57.21:588][910]BlueprintLog: New page: Compile BPW_ChatMessageChild
+[2019.10.22-19.57.22:407][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.10.22-19.57.26:501][329]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatMessageChildCB41C54B4767A4730D26E0B28BF90FE2.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatMessageChild.uasset'
+[2019.10.22-20.00.04:408][ 18]BlueprintLog: New page: Compile BPW_ChatMessageChild
+[2019.10.22-20.00.04:471][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2019.10.22-20.00.05:203][ 79]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatMessageChild4D9798DA41D0907860965CAA7D154026.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatMessageChild.uasset'
+[2019.10.22-20.01.38:080][164]BlueprintLog: New page: Compile BPW_ChatMessageChild
+[2019.10.22-20.01.38:145][164]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2019.10.22-20.01.38:748][212]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatMessageChildD801AD3B41C0EAAF9E2158A7838D9B5F.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatMessageChild.uasset'
+[2019.10.22-20.01.39:738][320]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatMessageChild3EB516244CCA5D32AFB1B99DCB83F136.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatMessageChild.uasset'
+[2019.10.22-20.02.26:786][970]BlueprintLog: New page: Compile BPW_ChatMessageChild
+[2019.10.22-20.02.26:849][970]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.10.22-20.02.27:826][ 49]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatMessageChildC84DE3FF4BF7A5028B2D3CA35E858C95.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatMessageChild.uasset'
+[2019.10.22-20.04.28:892][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2019.10.22-20.04.28:892][ 15]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.085
+[2019.10.22-20.04.28:894][ 15]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Widgets/BPW_ChatWindow] ([1] browsable assets)...
+[2019.10.22-20.04.28:894][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_ChatWindow]
+[2019.10.22-20.04.28:943][ 15]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatWindow_Auto2D0965FEC4F7C3FF30EEC0CA83282D5A2.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Autosaves/Game/UI/Widgets/BPW_ChatWindow_Auto2.uasset'
+[2019.10.22-20.04.28:945][ 15]LogFileHelpers: Auto-saving content packages took 0.051
+[2019.10.22-20.07.50:437][447]BlueprintLog: New page: Compile BPW_ChatWindow
+[2019.10.22-20.07.50:496][447]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.10.22-20.07.51:292][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_ChatWindow" FILE="../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset" SILENT=true
+[2019.10.22-20.07.51:384][521]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatWindow22F99E4942584F62BE45AA854D10E2EB.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset'
+[2019.10.22-20.11.21:170][237]BlueprintLog: New page: Compile BPW_ChatWindow
+[2019.10.22-20.11.21:229][237]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.10.22-20.11.21:908][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_ChatWindow" FILE="../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset" SILENT=true
+[2019.10.22-20.11.21:956][287]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatWindow754F320543F12FF967E7518134C8B011.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset'
+[2019.10.22-20.14.29:258][985]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.10.22-20.14.29:258][985]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.052
+[2019.10.22-20.14.29:260][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Widgets/BPW_ChatWindow] ([1] browsable assets)...
+[2019.10.22-20.14.29:260][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_ChatWindow]
+[2019.10.22-20.14.29:303][985]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatWindow_Auto30843433341AEC1E9AAF3C896064A90F9.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Autosaves/Game/UI/Widgets/BPW_ChatWindow_Auto3.uasset'
+[2019.10.22-20.14.29:305][985]LogFileHelpers: Auto-saving content packages took 0.046
+[2019.10.22-20.18.53:751][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_ChatWindow" FILE="../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset" SILENT=true
+[2019.10.22-20.18.53:807][375]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatWindowD44006E1433E4C7F5E168AB10289BFDE.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset'
+[2019.10.22-20.19.18:062][377]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.22-20.19.37:520][511]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/BPW_PlayerChild.BPW_PlayerChild
+[2019.10.22-20.19.51:481][ 44]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.22-20.20.00:175][318]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.22-20.20.31:325][354]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.22-20.20.55:430][196]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.22-20.21.12:426][373]BlueprintLog: New page: Compile BPW_ChatWindow
+[2019.10.22-20.21.12:517][373]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.10.22-20.21.13:358][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_ChatWindow" FILE="../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset" SILENT=true
+[2019.10.22-20.21.13:407][421]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatWindow299FB35044CF7E2B6AA400B67E3A3A6A.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset'
+[2019.10.22-20.24.56:932][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_ChatWindow" FILE="../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset" SILENT=true
+[2019.10.22-20.24.56:989][864]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatWindow10DC3DAC494714EBD5CBBE9C1393D240.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset'
+[2019.10.22-20.24.57:503][894]BlueprintLog: New page: Compile BPW_ChatWindow
+[2019.10.22-20.24.57:563][894]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.10.22-20.24.58:736][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_ChatWindow" FILE="../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset" SILENT=true
+[2019.10.22-20.24.58:927][961]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatWindow85FFDCF34912901FD7DF2B934594DCB4.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset'
+[2019.10.22-20.27.02:218][861]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2019.10.22-20.27.02:218][861]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.056
+[2019.10.22-20.27.02:219][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_LobbyPlayerController] ([1] browsable assets)...
+[2019.10.22-20.27.02:219][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_LobbyPlayerController]
+[2019.10.22-20.27.02:274][861]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BP_LobbyPlayerController_Auto4F25F967446FB7400A85A9C85F14839B7.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Autosaves/Game/Blueprints/BP_LobbyPlayerController_Auto4.uasset'
+[2019.10.22-20.27.02:293][861]LogFileHelpers: Auto-saving content packages took 0.074
+[2019.10.22-20.27.32:153][124]BlueprintLog: New page: Compile BP_LobbyPlayerController
+[2019.10.22-20.27.32:636][124]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.10.22-20.27.33:202][149]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BP_LobbyPlayerController20AED82743E4044D151F05AD610C7348.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Blueprints/BP_LobbyPlayerController.uasset'
+[2019.10.22-20.38.30:705][810]BlueprintLog: New page: Compile BPW_ChatWindow
+[2019.10.22-20.38.30:783][810]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.10.22-20.38.31:336][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_ChatWindow" FILE="../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset" SILENT=true
+[2019.10.22-20.38.31:432][840]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_ChatWindow01122A194369F0B381A999A7EAC37C8E.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_ChatWindow.uasset'
+[2019.10.22-20.39.45:767][362]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.10.22-20.39.45:767][362]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.068
+[2019.10.22-20.39.45:769][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_LobbyPlayerController] ([1] browsable assets)...
+[2019.10.22-20.39.45:769][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_LobbyPlayerController]
+[2019.10.22-20.39.45:973][362]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BP_LobbyPlayerController_Auto5B0E3C30C4BB5F95E758CEAAA710D546F.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Autosaves/Game/Blueprints/BP_LobbyPlayerController_Auto5.uasset'
+[2019.10.22-20.39.45:993][362]LogFileHelpers: Auto-saving content packages took 0.224
+[2019.10.22-20.44.44:377][493]BlueprintLog: New page: Compile BP_LobbyPlayerController
+[2019.10.22-20.44.44:669][493]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.10.22-20.44.45:188][516]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BP_LobbyPlayerControllerE715F3D64EB1F32F3853AFACB28B216F.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Blueprints/BP_LobbyPlayerController.uasset'
+[2019.10.22-20.50.14:888][411]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.10.22-20.50.14:889][411]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.081
+[2019.10.22-20.50.14:890][411]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Widgets/BPW_Lobby] ([1] browsable assets)...
+[2019.10.22-20.50.14:890][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_Lobby]
+[2019.10.22-20.50.15:059][411]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_Lobby_Auto694AA69D248569569748C3482EC2F072A.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Autosaves/Game/UI/Widgets/BPW_Lobby_Auto6.uasset'
+[2019.10.22-20.50.15:061][411]LogFileHelpers: Auto-saving content packages took 0.172
+[2019.10.22-20.51.24:267][638]BlueprintLog: New page: Compile BPW_Lobby
+[2019.10.22-20.51.24:544][638]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.10.22-20.51.25:414][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/BPW_Lobby" FILE="../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_Lobby.uasset" SILENT=true
+[2019.10.22-20.51.25:479][685]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BPW_LobbyD5EE309B4D80BEB1A93508A04DFF2F56.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/UI/Widgets/BPW_Lobby.uasset'
+[2019.10.22-21.00.20:979][272]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.10.22-21.00.20:979][272]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.056
+[2019.10.22-21.00.20:980][272]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_LobbyPlayerController] ([1] browsable assets)...
+[2019.10.22-21.00.20:980][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_LobbyPlayerController]
+[2019.10.22-21.00.21:108][272]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BP_LobbyPlayerController_Auto70F15C73D466F174C32523DA559AAFD26.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Autosaves/Game/Blueprints/BP_LobbyPlayerController_Auto7.uasset'
+[2019.10.22-21.00.21:109][272]LogFileHelpers: Auto-saving content packages took 0.129
+[2019.10.22-21.04.45:215][994]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2019.10.22-21.04.45:477][994]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2019.10.22-21.04.46:106][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_LobbyGameMode" FILE="../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Blueprints/BP_LobbyGameMode.uasset" SILENT=true
+[2019.10.22-21.04.46:202][ 24]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BP_LobbyGameMode460D495D4A95BFA57BF778B6A8F5DBC2.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Blueprints/BP_LobbyGameMode.uasset'
+[2019.10.22-21.10.21:555][370]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.10.22-21.10.21:555][370]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.072
+[2019.10.22-21.10.21:557][370]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_LobbyPlayerController] ([1] browsable assets)...
+[2019.10.22-21.10.21:557][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_LobbyPlayerController]
+[2019.10.22-21.10.21:632][370]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BP_LobbyPlayerController_Auto8890939214BA36A1B939791ACD1A1F40F.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Autosaves/Game/Blueprints/BP_LobbyPlayerController_Auto8.uasset'
+[2019.10.22-21.10.21:634][370]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_LobbyGameMode] ([1] browsable assets)...
+[2019.10.22-21.10.21:634][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_LobbyGameMode]
+[2019.10.22-21.10.21:710][370]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BP_LobbyGameMode_Auto8A23B7E024A7828105208EC8C00087BAB.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Autosaves/Game/Blueprints/BP_LobbyGameMode_Auto8.uasset'
+[2019.10.22-21.10.21:711][370]LogFileHelpers: Auto-saving content packages took 0.155
+[2019.10.22-21.21.25:212][460]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2019.10.22-21.21.25:288][460]LogBlueprint: Error: [Compiler BP_LobbyPlayerController] This blueprint (self) is not a BP_LobbyGameMode_C, therefore ' Target ' must have a connection.
+[2019.10.22-21.21.25:319][460]LogBlueprint: Warning: [Compiler BP_LobbyPlayerController] [7911.99] Compile of BP_LobbyPlayerController failed. 1 Fatal Issue(s) 0 Warning(s) [in 106 ms] (/Game/Blueprints/BP_LobbyPlayerController.BP_LobbyPlayerController)
+[2019.10.22-21.21.25:571][460]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.10.22-21.21.26:591][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_LobbyGameMode" FILE="../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Blueprints/BP_LobbyGameMode.uasset" SILENT=true
+[2019.10.22-21.21.26:671][514]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BP_LobbyGameModeD195B39C4B007BDB0524EA9EA4DBD678.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Blueprints/BP_LobbyGameMode.uasset'
+[2019.10.22-21.21.52:523][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2019.10.22-21.21.52:524][ 26]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.061
+[2019.10.22-21.21.52:525][ 26]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_LobbyPlayerController] ([1] browsable assets)...
+[2019.10.22-21.21.52:525][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_LobbyPlayerController]
+[2019.10.22-21.21.52:591][ 26]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BP_LobbyPlayerController_Auto929FB6C4D452917034E158AB7B581848E.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/Autosaves/Game/Blueprints/BP_LobbyPlayerController_Auto9.uasset'
+[2019.10.22-21.21.52:593][ 26]LogFileHelpers: Auto-saving content packages took 0.068
+[2019.10.22-21.22.13:841][957]BlueprintLog: New page: Compile BP_LobbyPlayerController
+[2019.10.22-21.22.14:160][957]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.10.22-21.22.15:002][996]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BP_LobbyPlayerController1FAD73FF42AF1A156930DE8C8D59FABF.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Blueprints/BP_LobbyPlayerController.uasset'
+[2019.10.22-21.28.58:051][222]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2019.10.22-21.28.58:383][222]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2019.10.22-21.28.58:994][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_LobbyGameMode" FILE="../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Blueprints/BP_LobbyGameMode.uasset" SILENT=true
+[2019.10.22-21.28.59:074][251]LogSavePackage: Moving '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Saved/BP_LobbyGameModeEAA9D19A4DEB3719057734A795470944.tmp' to '../../../../../../Users/maxim/OneDrive/Documents/Unreal Projects/TheRageRace/Content/Blueprints/BP_LobbyGameMode.uasset'
+[2019.10.22-21.35.08:637][449]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-21.35.08:637][449]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-21.35.08:637][449]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-21.35.08:637][449]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-21.35.08:637][449]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-21.35.24:986][709]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (16.349 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.22-21.35.27:895][829]LogHttp: Warning: 0000025EEDE82AC0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.10.22-21.35.27:895][829]LogHttp: Warning: 0000025EEDE82AC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25e09fa3ee0 [can pipeline])
+[2019.10.22-21.35.27:895][829]LogHttp: Warning: 0000025EEDE82AC0: libcurl info message cache 1 (Re-using existing connection! (#51) with host datarouter.ol.epicgames.com)
+[2019.10.22-21.35.27:895][829]LogHttp: Warning: 0000025EEDE82AC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.214.253.233) port 443 (#51))
+[2019.10.22-21.35.27:895][829]LogHttp: Warning: 0000025EEDE82AC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.22-21.35.27:895][829]LogHttp: Warning: 0000025EEDE82AC0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.10.22-21.35.27:895][829]LogHttp: Warning: 0000025EEDE82AC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.22-21.35.27:895][829]LogHttp: Warning: 0000025EEDE82AC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.22-21.35.27:895][829]LogHttp: Warning: 0000025EEDE82AC0: libcurl info message cache 7 (Closing connection 51)
+[2019.10.22-21.35.27:914][830]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F50762C-4751-176B-1ADD-C995F4214CAB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9545ad3e4f237fc631a7faa18228dec1%7C5f817df291d9468eb121bda29169e516%7C6220e989-7c78-4219-b595-3d3708e8d201&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.22-21.45.17:510][190]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.10.22-21.45.17:810][191]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:296 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.10.22-21.45.17:810][191]LogD3D11RHI: [Aftermath] GDynamicRHI=0000025E0D55A0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.10.22-21.45.18:046][191]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
